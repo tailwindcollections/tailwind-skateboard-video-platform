@@ -7,6 +7,7 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "vite-svg-loader": "^2.2.0",
     "vue": "^3.0.5"
   },
   "devDependencies": {
